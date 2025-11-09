@@ -1,0 +1,10 @@
+body {
+  background: #f7f7f9;
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+.container {
+  max-width: 1200px;
+}
+.table thead th {
+  vertical-align: middle;
+}

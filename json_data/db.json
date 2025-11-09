@@ -1,0 +1,114 @@
+{
+  "students": [
+    {
+      "fullName": "vaishnavi pawar",
+      "email": "vaishu123@gmail.com",
+      "mobile": "76543906674",
+      "college": "BTINE Collage",
+      "course": "JavaScript",
+      "batchCode": "765",
+      "joiningDate": "2025-10-15",
+      "remarks": "work hard dream big ",
+      "id": 1
+    },
+    {
+      "fullName": "Mrunali Ganve",
+      "email": "rani@gmail.com",
+      "mobile": "776535490388",
+      "college": " jogtapeer college",
+      "course": "HTML",
+      "batchCode": "HTML123",
+      "joiningDate": "15-10-2025",
+      "remarks": "  i am good student",
+      "id": 2
+    },
+    {
+      "fullName": "vishakha pawar",
+      "email": "vishakhapawar1804@gmail.com",
+      "mobile": "7796356906",
+      "college": "k.b.joshi college",
+      "course": "React",
+      "batchCode": "react156",
+      "joiningDate": "2025-10-15",
+      "remarks": "\"Eager to learn React!",
+      "id": 3
+    },
+    {
+      "fullName": "Sneha Gadekar",
+      "email": "Gsneha1123@gmail.com",
+      "mobile": "76536864637",
+      "college": "S.N.D.T College",
+      "course": "CSS",
+      "batchCode": "css876",
+      "joiningDate": "2025-12-01",
+      "remarks": "Looking forward to learning!\n",
+      "id": 4
+    },
+    {
+      "fullName": "Shrutika Ozarkar",
+      "email": "shruti76@gmail.com",
+      "mobile": "9856673237",
+      "college": "Jog College",
+      "course":  "Node js",
+      "batchCode": "node876",
+      "joiningDate": "2025-12-01",
+      "remarks": "Looking forward to learning!\n",
+      "id": 5
+    },
+    {
+      "fullName": "pranay pate",
+      "email": "pranayp654@gmail.com",
+      "mobile": "8765432190",
+      "college": "ABC College",
+      "course": "Python",
+      "batchCode": "pyth123",
+      "joiningDate": "2025-11-20",
+      "remarks": "Excited to start learning Python!",
+      "id": 6
+    },
+    {
+      "fullName": "Akashjadhav",
+      "email": "Akash76@gmail.com",
+      "mobile": "9876543210",
+      "college": "XYZ University",
+      "course": "HTML",
+      "batchCode": "html456",
+      "joiningDate": "2025-10-30",
+      "remarks": "Ready to dive into web development!",
+      "id": 7
+    },
+    {
+      "fullName": "Rohit Sharma",
+      "email": "sharma45@gmail.com",
+      "mobile": "9123456780",
+      "college": "LMN Institute",
+      "course": "CSS",
+      "batchCode": "css789",
+      "joiningDate": "2025-12-05",
+      "remarks": "Looking forward to enhancing my design skills!",
+      "id": 8
+    },
+    {
+      "fullName": "Neha Kulkarni",
+      "email": "Nehuk765@gmail.com",
+      "mobile": "9988776655",
+      "college": "PQR College",
+      "course": "JavaScript",
+      "batchCode": "js321",
+      "joiningDate": "2025-11-15",
+      "remarks": "Excited to learn JavaScript and build dynamic web apps!",
+      "id": 9
+    },
+    {
+      "fullName": "Ankit Verma",
+      "email": "Ankitaverma@gmail.com",
+      "mobile": "8877665544",
+      "college": "DEF University",
+      "course": "React",
+      "batchCode": "react654",
+      "joiningDate": "2025-10-25",
+      "remarks": "Eager to master React and create amazing user interfaces!",
+      "id": 10
+    }
+  ]
+}
